@@ -1,3 +1,6 @@
+#!/usr/bin/python -tt
+# http://www.maxinbjohn.info/2007/12/03/ntp-client-in-python/
+
 ###########################################################
 #                    Simple NTP Program                   #
 #                    By  Maxin B. John (www.linuxify.net) #
