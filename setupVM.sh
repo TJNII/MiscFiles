@@ -1,9 +1,12 @@
 #!/bin/bash
 # setupVM.sh: Set up a Virtualbox VM
+#
 # $1: box name
 # $2: Full path to vdi
 # $3: Nic to bridge to
 # $4: Amount of RAM (in MBytes, no suffix)
+#
+# 2010 TJNII
 
 if [ -z "$1" -o -z "$2" -o -z "$3" -o -z "$4" ]; then
 	echo "Invalid options"
